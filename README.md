@@ -12,3 +12,6 @@
 
 [동영상]
 - https://youtu.be/b7KMz4aK53E
+
+[전체 프로젝트 파일]
+- https://drive.google.com/file/d/1Nqe2ouIeRA-biT3rjeXEUgPSusk7vUXY/view?usp=sharing
